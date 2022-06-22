@@ -1,2 +1,1 @@
-# cisco-cucm-lua
-cucm_lua
+CUCM-Lua
